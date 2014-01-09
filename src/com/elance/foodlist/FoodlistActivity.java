@@ -74,7 +74,7 @@ public class FoodlistActivity extends Activity {
 				filteredList.add(arrayList.get(i));
 			}
 		}
-		//updateList(Arrays.sort(filteredList));
+		updateList(filteredList);
 		/*
 		 * new AlertDialog.Builder(this).setMessage(searchString).setTitle(
 		 * "Search Title"
