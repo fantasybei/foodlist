@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array0">
+        <item>Apple</item>
+        <item>fruits</item>
+        <item>high</item>
+        <item>50.13</item>
+    </string-array>
+    <string-array name="array1">
+        <item>Beef</item>
+        <item>meat</item>
+        <item>low</item>
+        <item>2</item>
+        <item>serving (g)</item>
+        <item>120</item>
+        <item>fat (mg)</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="array2">
+        <item>Fish</item>
+        <item>seafood</item>
+        <item>high</item>
+        <item>45.45</item>
+        <item></item>
+        <item></item>
+         <item>fat (mg)</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="array3">
+        <item>Guava</item>
+        <item>fruits</item>
+        <item>moderate</item>
+        <item>25</item>
+    </string-array>
+    <string-array name="array4">
+        <item>Orange</item>
+        <item>fruits</item>
+        <item>low</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="array5">
+        <item>Pineapple</item>
+        <item>fruits</item>
+        <item>moderate</item>
+        <item>30.08</item>
+    </string-array>
+</resources>
